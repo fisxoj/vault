@@ -12,6 +12,7 @@
   :author ""
   :license "MIT"
   :depends-on (:dexador
+               :anaphora
                :jonathan)
   :components ((:module "src"
                 :components
